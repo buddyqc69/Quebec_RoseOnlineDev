@@ -1,1 +1,3 @@
-Ajout des fichiers 3DDATA VFS au serveur.
++ Ajout des fichiers 3DDATA VFS au serveur. 2021-10-10
++ Modification des fichiers AIP du serveurs. 2021-10-11
++ Correction de bug de drop d'objet avec aucune informations ou image sur l'item. 2021-10-11
